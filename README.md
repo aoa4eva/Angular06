@@ -1,6 +1,9 @@
 # Angular06
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
+This application was created to test exercises for JBC CWA Sep 2018
+Look in the app.component.ts file for the variables that are being formatted, and how text is being transformed. 
+Then look in app.component.html to see the syntax for formatting the variables. 
 
 ## Development server
 
